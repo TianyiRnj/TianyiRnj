@@ -78,8 +78,6 @@ A Mixture-of-Experts text-classification project focused on scalable NLP trainin
 
 ## More Projects
 
-**Open-source repositories**
-
 ### [code-agent](https://github.com/TianyiRnj/code-agent)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -107,8 +105,6 @@ RF-based heart sensing implemented in C.
 
 Custom browser UI built as a Chrome extension.
 
-**Selected engineering work**
-
 ### Authentication & trusted-device system
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -126,12 +122,8 @@ Spring Boot + Vue.js MFA with OTP verification, trusted-device management, secur
 
 Full-stack FastAPI/PostgreSQL system with AI-assisted scheduling and real-time collaboration.
 
-**Additional tools:** Flask · Next.js · Docker
-
 ---
 
 ## Contact
 
-**Connect:** [Email](mailto:rentynj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rentianyi/) · [GitHub](https://github.com/TianyiRnj)
-
-**Featured product:** [Musashi](https://musashi.bot/) · [Musashi GitHub](https://github.com/MusashiBot) · [Chrome Extension](https://chromewebstore.google.com/detail/musashi/jjnfhhfdfeglfncccjjpojbnngodaepk)
+[Email](mailto:tianyirennj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rentianyi/) · [GitHub](https://github.com/TianyiRnj)
