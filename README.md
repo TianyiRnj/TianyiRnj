@@ -63,7 +63,7 @@ A TypeScript browser automation project built on [HyperAgent](https://github.com
 
 ### moe-text-classifier — Mixture-of-Experts NLP Training
 
-[github.com/TianyiRnj/moe-text-classifier](https://github.com/TianyiRnj/moe-text-classifier)
+[GitHub](https://github.com/TianyiRnj/moe-text-classifier)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
